@@ -10,6 +10,7 @@ Berkain merupakan sebuah program sederhana yang menggunakan bahasa Python dan da
 
 # Flowchart
 
+![image](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/8f843c0c-63f3-443a-96e7-24cc7cf64e65)
 
 
 #
