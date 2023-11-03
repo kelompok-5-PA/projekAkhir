@@ -12,30 +12,34 @@ Berkain merupakan sebuah program sederhana yang menggunakan bahasa Python dan da
 
 **Menu Utama**
 
-![image](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/55760fda-7f22-4920-9aff-85b08c06a190)
+![Menu Utama](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/19191b04-d09f-47df-a184-2fa6706d7f09)
 
 
 
 **Login**
 
-![Login drawio](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/167e4123-8289-47ed-afcf-aa27c45c2c65)
+![Login](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/25aeb678-bda9-48d4-8162-79ebe57ded36)
+
 
 
 
 **Register**
+![Register](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/e357cd3d-01d2-4013-be35-dc8725128a7d)
 
-#![Regi drawio](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/08c498d7-81ba-4f6b-b4e9-9b89eeec3e6c)
+
 
 
 
 **Menu Admin**
 
-![Admin drawio](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/1daa312b-eab7-4507-81c9-ab15841fb211)
+![Menu Admin](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/31fe0d3f-2536-490b-82fd-fcd36177097c)
+
 
 
 **Menu Customer**
 
-![Customer drawio](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/39a8d7fb-1007-4fd1-8ec4-b11740e0fb32)
+![Flowchart Customer](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/466a06a4-cddf-4257-8c9b-244fb690fb71)
+
 
 
 # Main Program
