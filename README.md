@@ -52,15 +52,15 @@ Perlu dipahami bahwa anda tidak bisa melakukan login jika belum melakukan regist
 
 Setelah berhasil melakukan login akan muncul CRUD yang dapat dijalankan dengan bebas oleh admin
 
-<img width="223" alt="Screenshot 2023-11-03 235020" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/b238143d-cfbf-481d-9288-4c3bfdc97ffa">
+<img width="223" alt="Screenshot 2023-11-03 235020" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/2184f4cd-f89e-4009-853c-b7e8330ec07b">
 
 Jika memilih opsi 2 (customer) akan muncul menu customer dengan opsi read menu, e-Money dan juga logout
 
-<img width="221" alt="Screenshot 2023-11-03 235315" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/0c8892b3-bae4-4f2c-8c38-e928ef92ab2d">
+<img width="221" alt="Screenshot 2023-11-03 235315" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/ccf19fbb-9989-45f8-9dfb-3f3e2c378ede">
 
 Jika memilih opsi 1 yaitu read menu, pelanggan dapat melihat produk yang disediakan oleh Berkain
 
-<img width="209" alt="Screenshot 2023-11-03 235413" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/037ed48b-46e6-4247-8746-f923f6fbc960">
+<img width="209" alt="Screenshot 2023-11-03 235413" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/29a9c6eb-39ca-49ef-9bb2-8b54212e25e5">
 
 Jika pelanggan memilih untuk melanjutkan, program akan kembali ke awal di bagian menu customer. Jika memilih opsi 2 yaitu e-Money, pelanggan dapat melakukan topup saldo e-Money, pengecekan saldo, checkout, dan keluar.
 
