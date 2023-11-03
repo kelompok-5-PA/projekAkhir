@@ -21,3 +21,5 @@ Login
 Register
 #![Regi drawio](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/08c498d7-81ba-4f6b-b4e9-9b89eeec3e6c)
 
+Menu Admin
+![Admin drawio](https://github.com/kelompok-5-PA/projekAkhir/assets/143193920/1daa312b-eab7-4507-81c9-ab15841fb211)
