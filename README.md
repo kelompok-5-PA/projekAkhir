@@ -52,34 +52,34 @@ Perlu dipahami bahwa anda tidak bisa melakukan login jika belum melakukan regist
 
 Setelah berhasil melakukan login akan muncul CRUD yang dapat dijalankan dengan bebas oleh admin
 
-<img width="223" alt="Screenshot 2023-11-03 235020" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/7c94dfdd-3471-4711-abee-98eb7b80095a">
+<img width="223" alt="Screenshot 2023-11-03 235020" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/b238143d-cfbf-481d-9288-4c3bfdc97ffa">
 
 Jika memilih opsi 2 (customer) akan muncul menu customer dengan opsi read menu, e-Money dan juga logout
 
-<img width="221" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/7165c9e4-e7bc-4b8e-b2e7-865629efe0b1">
+<img width="221" alt="Screenshot 2023-11-03 235315" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/0c8892b3-bae4-4f2c-8c38-e928ef92ab2d">
 
 Jika memilih opsi 1 yaitu read menu, pelanggan dapat melihat produk yang disediakan oleh Berkain
 
-<img width="209" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/99abb64d-7321-46d9-946a-fe9c279e715f">
+<img width="209" alt="Screenshot 2023-11-03 235413" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/037ed48b-46e6-4247-8746-f923f6fbc960">
 
 Jika pelanggan memilih untuk melanjutkan, program akan kembali ke awal di bagian menu customer. Jika memilih opsi 2 yaitu e-Money, pelanggan dapat melakukan topup saldo e-Money, pengecekan saldo, checkout, dan keluar.
 
-<img width="190" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/46bbe064-6cac-4252-b20e-05dc54aad719">
+<img width="190" alt="Screenshot 2023-11-03 235643" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/704e0602-ce75-4292-9e90-5b41732b021a">
 
 Jika memilih opsi 1 pelanggan dapat melakukan topup dengan pilihan saldo yang telah disediakan oleh kami,
 
-<img width="187" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/0c0603ac-7ca4-4bb8-b4a0-166ae9a7e7c5">
+<img width="187" alt="Screenshot 2023-11-04 000202" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/f8d2ce30-2bfb-4e2e-b375-14b6efeb2c2d">
 
 Setelah berhasil topup, maka saldo akan bertambah. Dan pelanggan bisa beralih ke opsi 3 yaitu checkout. Jika ingin membayar secara tunai pelanggan tidak perlu topup e-Money dan dapat langsung menuju ke opsi checkout
 
-<img width="343" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/e740f613-ccd1-4464-9c78-2784e53a1481">
+<img width="343" alt="Screenshot 2023-11-04 000602" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/739df729-e51a-47c3-b948-2d82cf337779">
 
 Pelanggan dapat menambahkan produk yang diinginkan sebanyak-banyaknya selama persediaan stok mencukupi, jika sudah selesai memilih produk pelanggan dapat menekan 0 untuk lanjut ke pembayaran. Pelanggan dapat memilih ingin membayar secara tunai atau dengan e-Money, setelah selesai akan muncul invoice.
 
-<img width="351" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/ddd7f3cc-ae31-495c-934b-12abd4cbd4a4">
+<img width="351" alt="Screenshot 2023-11-04 000804" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/251a0a79-7bae-43b7-9823-ae1b6edde23e">
 
 Pengguna dapat memilih opsi 3 atau leave pada menu awal untuk keluar dari program
 
-<img width="216" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/e7b7cf30-09c1-4a62-a84d-d4f6cc1dd1c4">
+<img width="216" alt="Screenshot 2023-11-04 001129" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/5406cb24-8bd1-4f0e-9c30-648897b0c024">
 
 Outputnya akan muncul terima kasih telah berkunjung di toko kami.
