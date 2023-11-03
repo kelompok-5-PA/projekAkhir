@@ -40,7 +40,7 @@ Berkain merupakan sebuah program sederhana yang menggunakan bahasa Python dan da
 
 # Main Program
 
-Yang akan muncul pertama adalah pesan selamat datang dan dapat memilih peran. Terdapat role admin dan customer
+Yang akan muncul pertama pada menu awal adalah pesan selamat datang dan dapat memilih peran. Terdapat role admin dan customer, dan ada opsi leave.
 
 <img width="378" alt="Screenshot 2023-11-03 225833" src="https://github.com/dheaamaliaptri/PA_1_Daspro/assets/144705099/541dfa2b-e749-4487-8227-79103f1c95b1">
 
@@ -66,4 +66,20 @@ Jika pelanggan memilih untuk melanjutkan, program akan kembali ke awal di bagian
 
 <img width="190" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/46bbe064-6cac-4252-b20e-05dc54aad719">
 
-Jika memilih 1 pelanggan dapat melakukan topup dengan pilihan saldo yang telah disediakan oleh kami
+Jika memilih opsi 1 pelanggan dapat melakukan topup dengan pilihan saldo yang telah disediakan oleh kami,
+
+<img width="187" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/0c0603ac-7ca4-4bb8-b4a0-166ae9a7e7c5">
+
+Setelah berhasil topup, maka saldo akan bertambah. Dan pelanggan bisa beralih ke opsi 3 yaitu checkout. Jika ingin membayar secara tunai pelanggan tidak perlu topup e-Money dan dapat langsung menuju ke opsi checkout
+
+<img width="343" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/e740f613-ccd1-4464-9c78-2784e53a1481">
+
+Pelanggan dapat menambahkan produk yang diinginkan sebanyak-banyaknya selama persediaan stok mencukupi, jika sudah selesai memilih produk pelanggan dapat menekan 0 untuk lanjut ke pembayaran. Pelanggan dapat memilih ingin membayar secara tunai atau dengan e-Money, setelah selesai akan muncul invoice.
+
+<img width="351" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/ddd7f3cc-ae31-495c-934b-12abd4cbd4a4">
+
+Pengguna dapat memilih opsi 3 atau leave pada menu awal untuk keluar dari program
+
+<img width="216" alt="image" src="https://github.com/kelompok-5-PA/projekAkhir/assets/144705099/e7b7cf30-09c1-4a62-a84d-d4f6cc1dd1c4">
+
+Outputnya akan muncul terima kasih telah berkunjung di toko kami.
